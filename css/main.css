@@ -12,7 +12,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
-  font-family: Open Sans;
+  font-family: "Open Sans";
 }
 
 *, *::before, *::after {
@@ -24,4 +24,14 @@ html {
   width: 100%;
 }
 
-<>
+.body
+
+.watermelon {
+  background-color: #e97065;
+}
+.starfruit {
+  background-color: #fbd25e;
+}
+.persimmon {
+  background-color: #e86033;
+}
