@@ -24,14 +24,15 @@ html {
   width: 100%;
 }
 
-.body
-
 .watermelon {
   background-color: #e97065;
+  font-family: 'Rammetto One', cursive;
 }
 .starfruit {
   background-color: #fbd25e;
+  font-family: 'Gravitas One', cursive;
 }
 .persimmon {
   background-color: #e86033;
+  font-family: 'Comfortaa', cursive;
 }
