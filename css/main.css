@@ -19,20 +19,36 @@ html {
   box-sizing: inherit;
 }
 
-.img-flex {
-  display: block;
-  width: 100%;
+body {
+  margin: 0;
+}
+
+.watermelon h2 {
+  background-color: #e97065;
+  font-family: "Rammetto One", cursive;
+}
+.starfruit h2 {
+  background-color: #fbd25e;
+  font-family: "Gravitas One", cursive;
+}
+
+.persimmon h2 {
+  background-color: #e86033;
+  font-family: Comfortaa, cursive;
 }
 
 .watermelon {
   background-color: #e97065;
-  font-family: "Rammetto One", cursive;
 }
+
 .starfruit {
   background-color: #fbd25e;
-  font-family: "Gravitas One", cursive;
 }
+
 .persimmon {
   background-color: #e86033;
-  font-family: "Comfortaa", cursive;
+}
+
+.watermelon p, .starfruit p, .persimmon p {
+  font-family: "Open Sans", sans-serif;
 }
